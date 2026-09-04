@@ -3,100 +3,130 @@
   <channel>
     <title>Ricerca Gianluca Nicoletti | La Stampa</title>
     <link>https://www.lastampa.it/ricerca/?query=%22gianluca%20nicoletti%22&amp;tracking=LSHHD-S</link>
-    <description>Feed RSS generato per Ricerca Gianluca Nicoletti | La Stampa</description>
+    <description>Feed RSS personalizzato per Ricerca Gianluca Nicoletti | La Stampa</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 04 Sep 2026 05:00:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 05:05:30 +0000</lastBuildDate>
+    <item>
+      <title>Da Minneapolis a Roma la propaganda artificiale</title>
+      <link>https://www.lastampa.it/esteri/2026/02/07/news/da_minneapolis_a_roma_la_propaganda_artificiale-15498183/</link>
+      <guid isPermaLink="false">https://www.lastampa.it/esteri/2026/02/07/news/da_minneapolis_a_roma_la_propaganda_artificiale-15498183/</guid>
+      <pubDate>Sat, 07 Feb 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Andrea Pucci e il politicamente scorretto</title>
+      <link>https://www.lastampa.it/specchio/2026/02/15/news/battute_e_silenzi-15507379/</link>
+      <guid isPermaLink="false">https://www.lastampa.it/specchio/2026/02/15/news/battute_e_silenzi-15507379/</guid>
+      <pubDate>Sun, 15 Feb 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nel finto aldilà</title>
+      <link>https://www.lastampa.it/specchio/2026/03/01/news/nel_finto_aldila-15524876/</link>
+      <guid isPermaLink="false">https://www.lastampa.it/specchio/2026/03/01/news/nel_finto_aldila-15524876/</guid>
+      <pubDate>Sun, 01 Mar 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gentili è meglio</title>
+      <link>https://www.lastampa.it/specchio/2026/03/15/news/gentili_e_meglio-15542246/</link>
+      <guid isPermaLink="false">https://www.lastampa.it/specchio/2026/03/15/news/gentili_e_meglio-15542246/</guid>
+      <pubDate>Sun, 15 Mar 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>I tre personaggi di Patroni Griffi nella notte di una Napoli parallela</title>
+      <link>https://www.lastampa.it/torinosette/2026/03/20/news/i_tre_personaggi_di_patroni_griffi_nella_notte_di_una_napoli_parallela-15552601/</link>
+      <guid isPermaLink="false">https://www.lastampa.it/torinosette/2026/03/20/news/i_tre_personaggi_di_patroni_griffi_nella_notte_di_una_napoli_parallela-15552601/</guid>
+      <pubDate>Fri, 20 Mar 2026 06:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Meta stangata dai giudici. “Minori prede sessuali”</title>
       <link>https://www.lastampa.it/editoriali/lettere-e-idee/2026/03/26/news/meta_stangata_dai_giudici_minori_prede_sessuali-15560518/</link>
       <guid isPermaLink="false">https://www.lastampa.it/editoriali/lettere-e-idee/2026/03/26/news/meta_stangata_dai_giudici_minori_prede_sessuali-15560518/</guid>
-      <pubDate>Fri, 04 Sep 2026 04:46:08 +0000</pubDate>
+      <pubDate>Thu, 26 Mar 2026 06:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Divorzi alpini</title>
       <link>https://www.lastampa.it/specchio/2026/03/29/news/divorzi_alpini-15561763/</link>
       <guid isPermaLink="false">https://www.lastampa.it/specchio/2026/03/29/news/divorzi_alpini-15561763/</guid>
-      <pubDate>Fri, 04 Sep 2026 04:47:08 +0000</pubDate>
+      <pubDate>Sun, 29 Mar 2026 06:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Figli liberati</title>
       <link>https://www.lastampa.it/specchio/2026/04/12/news/figli_liberati-15578284/</link>
       <guid isPermaLink="false">https://www.lastampa.it/specchio/2026/04/12/news/figli_liberati-15578284/</guid>
-      <pubDate>Fri, 04 Sep 2026 04:48:08 +0000</pubDate>
+      <pubDate>Sun, 12 Apr 2026 06:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Le fatiche della longevità</title>
       <link>https://www.lastampa.it/specchio/temi/2026/04/19/news/le_fatiche_della_longevita-15587261/</link>
       <guid isPermaLink="false">https://www.lastampa.it/specchio/temi/2026/04/19/news/le_fatiche_della_longevita-15587261/</guid>
-      <pubDate>Fri, 04 Sep 2026 04:49:08 +0000</pubDate>
+      <pubDate>Sun, 19 Apr 2026 06:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Prof mani di forbice</title>
       <link>https://www.lastampa.it/specchio/2026/04/26/news/prof_mani_di_forbice-15596062/</link>
       <guid isPermaLink="false">https://www.lastampa.it/specchio/2026/04/26/news/prof_mani_di_forbice-15596062/</guid>
-      <pubDate>Fri, 04 Sep 2026 04:50:08 +0000</pubDate>
+      <pubDate>Sun, 26 Apr 2026 06:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Si annoiano, sbagliano. Smettiamo di vedere le persone disabili come “eterni pazienti”</title>
       <link>https://www.lastampa.it/specchio/temi/2026/05/03/news/si_annoiano_sbagliano_smettiamo_di_vederli_come_eterni_pazienti-15604821/</link>
       <guid isPermaLink="false">https://www.lastampa.it/specchio/temi/2026/05/03/news/si_annoiano_sbagliano_smettiamo_di_vederli_come_eterni_pazienti-15604821/</guid>
-      <pubDate>Fri, 04 Sep 2026 04:51:08 +0000</pubDate>
+      <pubDate>Sun, 03 May 2026 06:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Capri espiatori</title>
       <link>https://www.lastampa.it/specchio/rubriche/fuori-strada/2026/05/10/news/capri_espiatori-15613011/</link>
       <guid isPermaLink="false">https://www.lastampa.it/specchio/rubriche/fuori-strada/2026/05/10/news/capri_espiatori-15613011/</guid>
-      <pubDate>Fri, 04 Sep 2026 04:52:08 +0000</pubDate>
+      <pubDate>Sun, 10 May 2026 06:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Giornate mondiali</title>
       <link>https://www.lastampa.it/specchio/rubriche/fuori-strada/2026/05/24/news/giornate_mondiali-15630896/</link>
       <guid isPermaLink="false">https://www.lastampa.it/specchio/rubriche/fuori-strada/2026/05/24/news/giornate_mondiali-15630896/</guid>
-      <pubDate>Fri, 04 Sep 2026 04:53:08 +0000</pubDate>
+      <pubDate>Sun, 24 May 2026 06:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Vitaccia cavallina</title>
       <link>https://www.lastampa.it/specchio/rubriche/fuori-strada/2026/06/07/news/vitaccia_cavallina-15647356/</link>
       <guid isPermaLink="false">https://www.lastampa.it/specchio/rubriche/fuori-strada/2026/06/07/news/vitaccia_cavallina-15647356/</guid>
-      <pubDate>Fri, 04 Sep 2026 04:54:08 +0000</pubDate>
+      <pubDate>Sun, 07 Jun 2026 06:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ci mancano solo gli Ufo</title>
       <link>https://www.lastampa.it/specchio/rubriche/fuori-strada/2026/06/21/news/ci_mancano_solo_gli_ufo-15663674/</link>
       <guid isPermaLink="false">https://www.lastampa.it/specchio/rubriche/fuori-strada/2026/06/21/news/ci_mancano_solo_gli_ufo-15663674/</guid>
-      <pubDate>Fri, 04 Sep 2026 04:55:08 +0000</pubDate>
+      <pubDate>Sun, 21 Jun 2026 06:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Eredità digitali</title>
       <link>https://www.lastampa.it/specchio/rubriche/fuori-strada/2026/07/05/news/eredita_digitali-15678219/</link>
       <guid isPermaLink="false">https://www.lastampa.it/specchio/rubriche/fuori-strada/2026/07/05/news/eredita_digitali-15678219/</guid>
-      <pubDate>Fri, 04 Sep 2026 04:56:08 +0000</pubDate>
+      <pubDate>Sun, 05 Jul 2026 06:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Quel selfie del 1850</title>
       <link>https://www.lastampa.it/specchio/rubriche/fuori-strada/2026/07/19/news/quel_selfie_del_1850-15691449/</link>
       <guid isPermaLink="false">https://www.lastampa.it/specchio/rubriche/fuori-strada/2026/07/19/news/quel_selfie_del_1850-15691449/</guid>
-      <pubDate>Fri, 04 Sep 2026 04:57:08 +0000</pubDate>
+      <pubDate>Sun, 19 Jul 2026 06:00:00 +0000</pubDate>
     </item>
     <item>
       <title>I cinque gradi dell’infedeltà</title>
       <link>https://www.lastampa.it/specchio/temi/2026/07/19/news/i_cinque_gradi_dell_infedelta-15691508/</link>
       <guid isPermaLink="false">https://www.lastampa.it/specchio/temi/2026/07/19/news/i_cinque_gradi_dell_infedelta-15691508/</guid>
-      <pubDate>Fri, 04 Sep 2026 04:58:08 +0000</pubDate>
+      <pubDate>Sun, 19 Jul 2026 06:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Dacci il nostro Specchio quotidiano</title>
       <link>https://www.lastampa.it/specchio/speciali/specchio-estate/2026/07/29/news/dacci_il_nostro_specchio_quotidiano-15701709/</link>
       <guid isPermaLink="false">https://www.lastampa.it/specchio/speciali/specchio-estate/2026/07/29/news/dacci_il_nostro_specchio_quotidiano-15701709/</guid>
-      <pubDate>Fri, 04 Sep 2026 04:59:08 +0000</pubDate>
+      <pubDate>Wed, 29 Jul 2026 06:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Senza campo finalmente liberi</title>
       <link>https://www.lastampa.it/specchio/rubriche/fuori-strada/2026/08/12/news/senza_campo_finalmente_liberi-15713184/</link>
       <guid isPermaLink="false">https://www.lastampa.it/specchio/rubriche/fuori-strada/2026/08/12/news/senza_campo_finalmente_liberi-15713184/</guid>
-      <pubDate>Fri, 04 Sep 2026 05:00:08 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

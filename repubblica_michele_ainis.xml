@@ -3,100 +3,130 @@
   <channel>
     <title>Michele Ainis | la Repubblica</title>
     <link>https://www.repubblica.it/autori/michele_ainis/</link>
-    <description>Feed RSS generato per Michele Ainis | la Repubblica</description>
+    <description>Feed RSS personalizzato per Michele Ainis | la Repubblica</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 04 Sep 2026 05:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 05:05:28 +0000</lastBuildDate>
+    <item>
+      <title>Separazione delle carriere, arriva una giustizia nuova</title>
+      <link>https://www.repubblica.it/commenti/2025/10/31/news/separazione_delle_carriere_riformaainis-424948860/</link>
+      <guid isPermaLink="false">https://www.repubblica.it/commenti/2025/10/31/news/separazione_delle_carriere_riformaainis-424948860/</guid>
+      <pubDate>Fri, 31 Oct 2025 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Garante della privacy, la triste stagione delle libertà variabili</title>
+      <link>https://www.repubblica.it/commenti/2025/11/12/news/l_assalto_alla_liberta_di_stampa-424974647/</link>
+      <guid isPermaLink="false">https://www.repubblica.it/commenti/2025/11/12/news/l_assalto_alla_liberta_di_stampa-424974647/</guid>
+      <pubDate>Wed, 12 Nov 2025 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La democrazia da ricostruire</title>
+      <link>https://www.repubblica.it/commenti/2025/12/03/news/democrazia_da_ricostruire-425017124/</link>
+      <guid isPermaLink="false">https://www.repubblica.it/commenti/2025/12/03/news/democrazia_da_ricostruire-425017124/</guid>
+      <pubDate>Wed, 03 Dec 2025 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Il bavaglio al dissenso</title>
+      <link>https://www.repubblica.it/commenti/2025/12/18/news/manovra_scandalo_governo_ainis-425043688/</link>
+      <guid isPermaLink="false">https://www.repubblica.it/commenti/2025/12/18/news/manovra_scandalo_governo_ainis-425043688/</guid>
+      <pubDate>Thu, 18 Dec 2025 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Il vero valore del referendum</title>
+      <link>https://www.repubblica.it/commenti/2026/01/14/news/referendum_giustizia_valoreainis-425092731/</link>
+      <guid isPermaLink="false">https://www.repubblica.it/commenti/2026/01/14/news/referendum_giustizia_valoreainis-425092731/</guid>
+      <pubDate>Wed, 14 Jan 2026 06:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Il vero valore del referendum</title>
       <link>https://www.repubblica.it/commenti/2026/01/14/news/referendum_giustizia_valoreainis-425092732/</link>
       <guid isPermaLink="false">https://www.repubblica.it/commenti/2026/01/14/news/referendum_giustizia_valoreainis-425092732/</guid>
-      <pubDate>Fri, 04 Sep 2026 04:46:06 +0000</pubDate>
+      <pubDate>Wed, 14 Jan 2026 06:00:00 +0000</pubDate>
     </item>
     <item>
       <title>La stretta autoritaria</title>
       <link>https://www.repubblica.it/commenti/2026/01/30/news/stretta_autoritaria_trump_ainis-425126349/</link>
       <guid isPermaLink="false">https://www.repubblica.it/commenti/2026/01/30/news/stretta_autoritaria_trump_ainis-425126349/</guid>
-      <pubDate>Fri, 04 Sep 2026 04:47:06 +0000</pubDate>
+      <pubDate>Fri, 30 Jan 2026 06:00:00 +0000</pubDate>
     </item>
     <item>
       <title>La democrazia annegata</title>
       <link>https://www.repubblica.it/commenti/2026/02/25/news/democrazia_board_of_peace_trump_ainis-425181058/</link>
       <guid isPermaLink="false">https://www.repubblica.it/commenti/2026/02/25/news/democrazia_board_of_peace_trump_ainis-425181058/</guid>
-      <pubDate>Fri, 04 Sep 2026 04:48:06 +0000</pubDate>
+      <pubDate>Wed, 25 Feb 2026 06:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Referendum, metodo e merito: ecco perché votare contro</title>
       <link>https://www.repubblica.it/politica/2026/03/13/news/metodo_merito_perche_votare_contro_referendum-425218128/</link>
       <guid isPermaLink="false">https://www.repubblica.it/politica/2026/03/13/news/metodo_merito_perche_votare_contro_referendum-425218128/</guid>
-      <pubDate>Fri, 04 Sep 2026 04:49:06 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 06:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Lo sberleffo della legge elettorale</title>
       <link>https://www.repubblica.it/commenti/2026/03/31/news/legge_elettorale_lo_sberleffo_e_la_lezione_del_referendum-425253926/</link>
       <guid isPermaLink="false">https://www.repubblica.it/commenti/2026/03/31/news/legge_elettorale_lo_sberleffo_e_la_lezione_del_referendum-425253926/</guid>
-      <pubDate>Fri, 04 Sep 2026 04:50:06 +0000</pubDate>
+      <pubDate>Tue, 31 Mar 2026 06:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Decreto sicurezza: la stretta autoritaria che rende crudele lo Stato</title>
       <link>https://www.repubblica.it/politica/2026/04/18/news/decreto_sicurezza_stretta_autoritaria_che_rende_crudele_lo_stato-425289613/</link>
       <guid isPermaLink="false">https://www.repubblica.it/politica/2026/04/18/news/decreto_sicurezza_stretta_autoritaria_che_rende_crudele_lo_stato-425289613/</guid>
-      <pubDate>Fri, 04 Sep 2026 04:51:06 +0000</pubDate>
+      <pubDate>Sat, 18 Apr 2026 06:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Garlasco, la giustizia e l’errore</title>
       <link>https://www.repubblica.it/commenti/2026/05/08/news/garlasco_la_ricerca_della_giustizia-425330438/</link>
       <guid isPermaLink="false">https://www.repubblica.it/commenti/2026/05/08/news/garlasco_la_ricerca_della_giustizia-425330438/</guid>
-      <pubDate>Fri, 04 Sep 2026 04:52:06 +0000</pubDate>
+      <pubDate>Fri, 08 May 2026 06:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Il governo e la sindrome dell’indecisione</title>
       <link>https://www.repubblica.it/commenti/2026/05/27/news/dalla_legge_elettorale_alle_tasse_la_sindrome_dell_indecisione-425371682/</link>
       <guid isPermaLink="false">https://www.repubblica.it/commenti/2026/05/27/news/dalla_legge_elettorale_alle_tasse_la_sindrome_dell_indecisione-425371682/</guid>
-      <pubDate>Fri, 04 Sep 2026 04:53:06 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 06:00:00 +0000</pubDate>
     </item>
     <item>
       <title>La politica a frammenti</title>
       <link>https://www.repubblica.it/rubriche/le-lettere/2026/06/10/news/politica_frammentazione_legge_elettorale_ainis-425402375/</link>
       <guid isPermaLink="false">https://www.repubblica.it/rubriche/le-lettere/2026/06/10/news/politica_frammentazione_legge_elettorale_ainis-425402375/</guid>
-      <pubDate>Fri, 04 Sep 2026 04:54:06 +0000</pubDate>
+      <pubDate>Wed, 10 Jun 2026 06:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Le regole da Far West</title>
       <link>https://www.repubblica.it/commenti/2026/06/27/news/ddl_caccia_e_leggi_da_far_west-425436223/</link>
       <guid isPermaLink="false">https://www.repubblica.it/commenti/2026/06/27/news/ddl_caccia_e_leggi_da_far_west-425436223/</guid>
-      <pubDate>Fri, 04 Sep 2026 04:55:06 +0000</pubDate>
+      <pubDate>Sat, 27 Jun 2026 06:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Vigilanza Rai, la prorogatio delle poltrone</title>
       <link>https://www.repubblica.it/commenti/2026/07/10/news/rai_vigilanza_poltrone_riformaainis-425461573/</link>
       <guid isPermaLink="false">https://www.repubblica.it/commenti/2026/07/10/news/rai_vigilanza_poltrone_riformaainis-425461573/</guid>
-      <pubDate>Fri, 04 Sep 2026 04:56:06 +0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 06:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Sicurezza, l’uso della forza e la fine del diritto</title>
       <link>https://www.repubblica.it/commenti/2026/07/24/news/da_roggero_a_fakir_la_forza_e_il_diritto-425488893/</link>
       <guid isPermaLink="false">https://www.repubblica.it/commenti/2026/07/24/news/da_roggero_a_fakir_la_forza_e_il_diritto-425488893/</guid>
-      <pubDate>Fri, 04 Sep 2026 04:57:06 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 06:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Se la sicurezza è liberticida</title>
       <link>https://www.repubblica.it/commenti/2026/07/31/news/riconoscimento_facciale_sicurezza-425503115/</link>
       <guid isPermaLink="false">https://www.repubblica.it/commenti/2026/07/31/news/riconoscimento_facciale_sicurezza-425503115/</guid>
-      <pubDate>Fri, 04 Sep 2026 04:58:06 +0000</pubDate>
+      <pubDate>Fri, 31 Jul 2026 06:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Sui giudici la legge del bastone</title>
       <link>https://www.repubblica.it/commenti/2026/08/11/news/giudici_legge_bastone_ainis-425522648/</link>
       <guid isPermaLink="false">https://www.repubblica.it/commenti/2026/08/11/news/giudici_legge_bastone_ainis-425522648/</guid>
-      <pubDate>Fri, 04 Sep 2026 04:59:06 +0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 06:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Michele Ainis. È tempo di resistere alla pericolosa ascesa del fascismo bianco</title>
       <link>https://www.repubblica.it/cultura/2026/09/03/news/michele_ainis_nuovo_saggio_fascismo_bianco_resistere-425561178/</link>
       <guid isPermaLink="false">https://www.repubblica.it/cultura/2026/09/03/news/michele_ainis_nuovo_saggio_fascismo_bianco_resistere-425561178/</guid>
-      <pubDate>Fri, 04 Sep 2026 05:00:06 +0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
